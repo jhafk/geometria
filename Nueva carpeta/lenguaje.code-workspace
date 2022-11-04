@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Nueva carpeta (2)"
+		},
+		{
+			"path": "../tarea3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Nueva carpeta",
+		"liveServer.settings.port": 5501
+	}
+}

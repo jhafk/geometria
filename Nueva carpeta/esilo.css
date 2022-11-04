@@ -1,0 +1,31 @@
+header{
+    background-color: rgb(0, 204, 255);
+    text-align: center;
+    color: aqua(124, 27, 214);
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    text-align: center;
+    
+}
+
+
+.logo{
+    display: flex;
+}
+
+.logo img{
+    height: 50%;
+    width: 50px;
+}
+
+body{
+    height: 600px;
+    background-color:rgb(27, 238, 59);
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20210902/pngtree-mathematics-tutoring-mathematics-background-image_783788.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment:fixed; /*scroll significa que la imagen es estatica*/
+    color: rgb(0, 0, 0);
+}
+
